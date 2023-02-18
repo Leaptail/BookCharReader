@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "ReaderMain.C": "cpp",
-        "ReadFileSumAvgCount.C": "cpp"
+        "ReadFileSumAvgCount.C": "cpp",
+        "Readernamev1_3.C": "cpp"
     }
 }
